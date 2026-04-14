@@ -91,6 +91,8 @@ If you would like to make a commit, submit them as a **Pull Request** using VS C
 5. Click the **checkmark ✓** to commit
 6. Click **"Publish Branch"** or **"Push"** to send your changes to GitHub
 7. Click **"Sync Changes"** to push to the main repo
+8. Go to the GitHub repository in your browser you'll see a prompt to **"Create Pull Request"**
+9. Add a title and description, then submit it for review
 
 <img width="1623" height="665" alt="image" src="https://github.com/user-attachments/assets/01a7f5e8-bffe-41f8-86f1-e7ba755d9308" />
 
