@@ -31,20 +31,20 @@ If you don't have it yet, download and install Visual Studio Code:
 
 👉 [**Download VS Code**](https://code.visualstudio.com/download)
 
-<!-- ![VS Code Download Page](images/vscode-download.png) -->
+### 2. Clone the Repository
 
-### 2. Download the Repository
+Open Visual Studio Code and on the main menu click **"Clone Git Repository..."**
 
-Go to our GitHub repository page and click the green **"Code"** button, then select **"Download ZIP"**.
+<img width="1919" height="925" alt="image" src="https://github.com/user-attachments/assets/f88467af-57aa-4b5e-85ff-fad34c099384" />
 
-<!-- ![Download ZIP](images/download-zip.png) -->
+---
 
-Once downloaded:
+Next input this URL into top input destination. **https://github.com/Xylemo/Phishing-Awarness-Website**
 
-1. Find the `.zip` file in your **Downloads** folder
-2. **Right-click** → **Extract All**
-3. Open VS Code
-4. Go to **File → Open Folder** and select the extracted folder
+---
+
+<img width="1919" height="936" alt="image" src="https://github.com/user-attachments/assets/8da5181a-3c60-4c41-9553-95921aeba6e3" />
+
 
 ### 3. Install the Live Server Extension
 
