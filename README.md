@@ -33,13 +33,13 @@ If you don't have it yet, download and install Visual Studio Code:
 
 ### 2. Clone the Repository
 
-Open Visual Studio Code and on the main menu click **"Clone Git Repository..."**
+Open Visual Studio Code and from the main menu select **"Clone Git Repository..."**
 
 <img width="1919" height="925" alt="image" src="https://github.com/user-attachments/assets/f88467af-57aa-4b5e-85ff-fad34c099384" />
 
 ---
 
-Next input this URL into top input destination. **https://github.com/Xylemo/Phishing-Awarness-Website**
+Next, paste the following URL into the prompt at the top. **https://github.com/Xylemo/Phishing-Awarness-Website**
 
 ---
 
